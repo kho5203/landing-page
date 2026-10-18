@@ -170,3 +170,12 @@ a {
   border-radius: 8px;
   border: 2px solid white;
 }
+
+.footer {
+  color: #f9faf8;
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px 0;
+}
