@@ -65,7 +65,7 @@ a {
   border-radius: 8px;
 }
 
-button {
+.left button {
   background-color: #3882f6;
   color: white;
   padding: 8px 32px;
@@ -141,4 +141,32 @@ button {
 .quote-author {
   font-weight: bold;
   text-align: right;
+}
+
+.action-call-container {
+  display: flex;
+  justify-content: center;
+  padding: 64px;
+}
+
+.action-call-content {
+  background-color: #3882f6;
+  padding: 32px 64px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  flex-basis: 800px;
+  justify-content: space-between;
+}
+
+.action-call-left {
+  color: white;
+}
+
+.action-call-right button {
+  background-color: #3882f6;
+  color: white;
+  padding: 8px 32px;
+  border-radius: 8px;
+  border: 2px solid white;
 }
