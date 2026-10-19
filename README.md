@@ -1,6 +1,6 @@
 # Cybersecurity Landing Page
 
-This cybersecurity landing page is built as part of the Odin Project CSS Course. The page uses a cybersecurity theme to introduce different penetration testing operating systems
+This cybersecurity landing page is built as part of the Odin Project CSS Course. The page uses a cybersecurity theme to introduce different penetration testing operating systems.
 
 ## About the Project
 
@@ -23,7 +23,7 @@ The layout includes the following:
 ## Concepts Learned
 
 - How to structure a page with HTML containers, images, and links
-- Arranging and styling content using CSS Flexbox.
+- Arranging and styling content using CSS Flexbox
   - Aligning items using `justify-content` and `align-items`
   - Spacing using `gap`, `padding`, and `margins`
   - Sizing elements using `flex-basis`
