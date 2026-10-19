@@ -2,7 +2,7 @@
 
 This project uses logos and artwork associated with Linux distributions.
 
-## 1. BackBox Linux Logo
+## 1. Odin Project Landing Page Design
 
 - **File:** `landing-page-design.png`
 - **Credit:** The Odin Project
